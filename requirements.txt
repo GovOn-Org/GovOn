@@ -28,7 +28,7 @@ langchain-core>=1.2.0,<2.0.0
 
 # RAG & Search (New for M3)
 sentence-transformers>=5.5.1
-faiss-cpu>=1.7.4
+faiss-cpu>=1.14.2
 
 # Data Processing
 pandas>=2.3.3
