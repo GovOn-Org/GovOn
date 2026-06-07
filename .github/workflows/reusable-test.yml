@@ -53,7 +53,7 @@ jobs:
         run: bash .github/scripts/run_inference_ci.sh ${{ inputs.coverage-threshold }}
 
       - name: Upload coverage to Codecov
-        uses: codecov/codecov-action@v4
+        uses: codecov/codecov-action@v7
         with:
           token: ${{ secrets.CODECOV_TOKEN }}
           file: ./coverage.xml
