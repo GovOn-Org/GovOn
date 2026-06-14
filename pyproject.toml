@@ -96,7 +96,7 @@ server = [
     "pandas>=2.3.3",
     "numpy>=2.2.6",
     "scikit-learn>=1.7.2",
-    "tqdm>=4.68.1",
+    "tqdm>=4.68.2",
     "python-dotenv>=1.2.2",
     "pyyaml>=6.0.3",
 ]
