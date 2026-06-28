@@ -6,7 +6,7 @@ datasets>=4.8.5
 
 # Quantization & Optimization
 bitsandbytes>=0.44.0
-optimum>=1.13.0
+optimum>=2.2.0
 autoawq>=0.2.8
 
 # Fine-tuning
