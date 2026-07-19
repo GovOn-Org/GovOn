@@ -173,7 +173,7 @@ jobs:
             'sentence-transformers>=3.0.0'
 
       - name: Setup Node.js
-        uses: actions/setup-node@v6
+        uses: actions/setup-node@v7
         with:
           node-version: '22'
           cache: 'npm'
@@ -284,7 +284,7 @@ jobs:
         working-directory: packages/npm
     steps:
       - uses: actions/checkout@v7
-      - uses: actions/setup-node@v6
+      - uses: actions/setup-node@v7
         with:
           node-version: '22'
       - run: npm install --no-audit --no-fund
