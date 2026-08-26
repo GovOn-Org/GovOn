@@ -10,7 +10,7 @@
 [![Model: NC](https://img.shields.io/badge/Model-Non--Commercial-red.svg)](https://huggingface.co/LGAI-EXAONE/EXAONE-4.0-32B-AWQ/blob/main/LICENSE)
 
 <!-- DORA-BADGES:START -->
-![DORA Grade](https://img.shields.io/badge/DORA-Elite-brightgreen)
+![DORA Grade](https://img.shields.io/badge/DORA-Low-red)
 ![Deploy Freq](https://img.shields.io/badge/Deploy_Freq-0%2Fweek-blue)
 ![Lead Time](https://img.shields.io/badge/Lead_Time-0.0h-brightgreen)
 ![CFR](https://img.shields.io/badge/CFR-0.0%2525-brightgreen)
