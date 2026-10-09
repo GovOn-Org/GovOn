@@ -108,7 +108,7 @@ korean-nlp = [
 
 database = [
     "sqlalchemy>=2.0.50",
-    "alembic>=1.18.4",
+    "alembic>=1.18.5",
     "psycopg2-binary>=2.9.12",
 ]
 
